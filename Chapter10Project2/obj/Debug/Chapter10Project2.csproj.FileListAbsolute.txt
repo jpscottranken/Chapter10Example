@@ -1,0 +1,14 @@
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\bin\Debug\Chapter10Project2.exe.config
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\bin\Debug\Chapter10Project2.exe
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\bin\Debug\Chapter10Project2.pdb
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.frmRedWhiteBlue.resources
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.exe
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.pdb
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.frmBlue.resources
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.frmRed.resources
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Project2\obj\Debug\Chapter10Project2.frmWhite.resources

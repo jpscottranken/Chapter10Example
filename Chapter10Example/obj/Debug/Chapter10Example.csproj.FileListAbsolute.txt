@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\bin\Debug\Chapter10Example.exe.config
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\bin\Debug\Chapter10Example.exe
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\bin\Debug\Chapter10Example.pdb
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.Form1.resources
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.exe
+C:\Users\jpscott\Desktop\Chapter10\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.pdb
